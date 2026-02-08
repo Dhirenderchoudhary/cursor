@@ -4,7 +4,7 @@
 
 This project is a high-fidelity, pixel-perfect recreation of the [Cursor](https://cursor.com) landing page. It demonstrates advanced front-end development skills, focusing on layout precision, typography, and visual aesthetics without relying on heavy frameworks.
 
-🔗 **Live Demo:** [https://cursorlandingpagechai.netlify.app](https://cursorlandingpagechai.netlify.app)
+🔗 **Live Demo:** [https://cur-sor-landingpage.netlify.app/](https://cur-sor-landingpage.netlify.app/)
 📂 **Repository:** [https://github.com/Dhirenderchoudhary/cursor-.git](https://github.com/Dhirenderchoudhary/cursor-.git)
 
 ## Features
